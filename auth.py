@@ -1,2 +1,2 @@
-print("auth")
+print("esto es release")
 print("develop")
